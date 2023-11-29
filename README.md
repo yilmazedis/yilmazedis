@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a full-time iOS Developer 👨&zwj;💻 working remotely since 2021 🚀
+
+I love to take a project from scratch and develop it to the end by following the design stages. I enjoy working as a team, as well as I can develop alone.
+During the development processes, I can not only write code, but also support the team in project design.
+In addition to the tasks I take on myself, I also play a big role in the development processes of my teammates.
+
