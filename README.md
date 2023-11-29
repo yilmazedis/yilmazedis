@@ -22,10 +22,9 @@ I love to take a project from scratch and develop it to the end by following the
 During the development processes, I can not only write code, but also support the team in project design.
 In addition to the tasks I take on myself, I also play a big role in the development processes of my teammates.
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yilmazedis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7657265) 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yilmazedis&style=flat-square&color=blue" height="41" width="174" alt=""></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yilmazedis&theme=dark&hide_border=false)<br/>
