@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a full-time iOS Developer 👨&zwj;💻 working remotely since 2021 🚀
+I'm a full-time iOS Developer 👨&zwj;💻 making mobile app since 2018 🚀
 
 I love to take a project from scratch and develop it to the end by following the design stages. I enjoy working as a team, as well as I can develop alone.
 During the development processes, I can not only write code, but also support the team in project design.
