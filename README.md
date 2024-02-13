@@ -24,6 +24,7 @@ In addition to the tasks I take on myself, I also play a big role in the develop
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yilmazedis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7657265) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ylmazedis)
+[![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/osman-akkus/id1697026381)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yilmazedis&style=flat-square&color=blue" height="41" width="174" alt=""></p>
 
 # 📊 GitHub Stats:
